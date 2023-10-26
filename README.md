@@ -1,8 +1,8 @@
 ### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
+![Codewars](https://www.codewars.com/users/Yura%20Trach&stroke=blue)
 <!--
 **Destwood/Destwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://www.codewars.com/users/Yura%20Trach
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
