@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Codewars](https://www.codewars.com/users/YuraTrach)
+[![Codewars Profile](https://www.codewars.com/users/Yura%20Trach/badges/small)](https://www.codewars.com/users/Yura%20Trach)
+
 <!--
 **Destwood/Destwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://www.codewars.com/users/Yura%20Trach
