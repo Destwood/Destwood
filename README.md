@@ -1,4 +1,4 @@
-### Hi there 👋
+### Junior React.js developer 👋
 [![Codewars Profile](https://www.codewars.com/users/Yura%20Trach/badges/large)](https://www.codewars.com/users/Yura%20Trach)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/yuraaatrach/)
 
